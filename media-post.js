@@ -113,7 +113,7 @@ const cardData = [
   link: "https://www.ptinews.com/story/business/indian-entreprenuer-to-invest-rs-214-cr-on-ai-powered-hydroponic-farming/3384298"
 },
 {
-  img: "assets/img/portfolio/30.jpeg",
+  img: "assets/img/portfolio/30.png",
   src: "ThePrint",
   desc: "Vivek Raj is set to invest in AI-enabled hydroponic farming in Karnataka.",
   lang: "en",
