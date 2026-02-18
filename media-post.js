@@ -84,7 +84,7 @@ const cardData = [
   link: "https://brandequity.economictimes.indiatimes.com/news/digital/india-ai-impact-summit-2026-what-does-responsible-ai-for-bharat-look-like/128418239"
   },
   {
-  img: "assets/img/portfolio/33.jpeg",
+  img: "assets/img/portfolio/29.jpeg",
   src: "CNBCTV18",
   desc: "Vivek Raj advocates for AI-driven food security at the World Economic Forum Davos 2026.",
   lang: "en",
@@ -106,7 +106,7 @@ const cardData = [
   link: "https://www.dqindia.com/news/india-ai-summit-responsible-ai-ethical-ai-and-the-india-scale-test-11110825"
 },
 {
-  img: "assets/img/portfolio/29.jpeg",
+  img: "assets/img/portfolio/33.jpeg",
   src: "PTI",
   desc: "Vivek Raj to invest ₹214 crore in AI-powered hydroponic farming in Karnataka.",
   lang: "en",
@@ -126,6 +126,22 @@ const cardData = [
   lang: "en",
   link: "https://money.rediff.com/amp/news/market/ai-hydroponic-farming-indian-entrepreneur-invests/42121920260216"
 },
+{
+  img: "assets/img/portfolio/34.jpeg",
+  src: "BW CFO World",
+  desc: "Vivek Raj strengthens agri-tech footprint with AI-driven hydroponics in Karnataka.",
+  lang: "en",
+  link: "https://share.google/nMbc6BL67M4NZzoiA"
+},
+{
+  img: "assets/img/portfolio/35.jpeg",
+  src: "CNBCTV18",
+  desc: "Panama Hydro-X revolutionises hydroponic farming with AI in Karnataka.",
+  lang: "en",
+  link: "https://www.cnbctv18.com/technology/panama-hydro-x-karnataka-company-revolutionising-hydroponic-farming-with-ai-backed-technology-ws-l-19851870.htm/amp"
+},
+
+
 
   // ---------- KANNADA ----------
   {
