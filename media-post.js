@@ -140,6 +140,50 @@ const cardData = [
   lang: "en",
   link: "https://www.cnbctv18.com/technology/panama-hydro-x-karnataka-company-revolutionising-hydroponic-farming-with-ai-backed-technology-ws-l-19851870.htm/amp"
 },
+{
+  img: "assets/img/portfolio/36.jpeg",
+  src: "DownToEarth",
+  desc: "Vivek Raj promotes indoor farming and hydroponics as the future of sustainable agriculture.",
+  lang: "en",
+  link: "https://www.downtoearth.org.in/agriculture/indoor-farming-techniques-like-hydroponics-are-the-future-of-sustainable-agriculture-vivek-raj"
+},
+{
+  img: "assets/img/portfolio/37.jpeg",
+  src: "VerticalFarmDaily",
+  desc: "Vivek Raj stresses predictability over yield in medicinal indoor farming.",
+  lang: "en",
+  link: "https://www.verticalfarmdaily.com/article/9794998/predictability-matters-more-than-volume/"
+},
+{
+  img: "assets/img/portfolio/38.jpeg",
+  src: "BusinessWorld",
+  desc: "Vivek Raj says hydroponics is farming’s sustainable future.",
+  lang: "en",
+  link: "https://www.businessworld.in/article/hydroponics-is-the-future-of-farming-%E2%80%93-an-interview-with-vivek-raj-ceo-of-panama-corporation-534314"
+},
+{
+  img: "assets/img/portfolio/39.jpeg",
+  src: "NewsBytes",
+  desc: "Vivek Raj invests in AI-powered hydroponics to grow spices and medicinal plants in Karnataka.",
+  lang: "en",
+  link: "https://www.newsbytesapp.com/news/business/panama-hydro-x-to-invest-rs214-crore-in-ai-enabled-hydroponics/tldr"
+},
+{
+  img: "assets/img/portfolio/41.jpeg",
+  src: "InvestooMarket",
+  desc: "Vivek Raj blends AI and hydroponics to redefine modern farming in Karnataka.",
+  lang: "en",
+  link: "https://investoomarket.com/news/vivek-raj-to-invest-rs214-crore-in-ai-enabled-hydroponic-farming-in-karnataka.1058/"
+},
+{
+  img: "assets/img/portfolio/42.jpeg",
+  src: "ET Edge Insights",
+  desc: "Vivek Raj highlights resilience and predictability for India’s food security.",
+  lang: "en",
+  link: "https://etedge-insights.com/sdgs-and-esg/sustainability/why-predictability-is-the-new-productivity-securing-indias-sovereign-food-interests/"
+},
+
+
 
 
 
@@ -204,6 +248,13 @@ const cardData = [
     desc: "No thirst for power, money, popularity",
     lang: "kn",
     link: "https://www.prajavani.net/district/dakshina-kannada/prajavani-deccan-herald-mangalore-upsc-883200.html"
+  },
+  {
+  img: "assets/img/portfolio/40.jpeg",
+  src: "NewsFirstLive",
+  desc: "Vivek Raj uses AI hydroponics to boost yields threefold in modern farming.",
+  lang: "kn",
+  link: "https://newsfirstlive.com/technology/vivek-raj-invests-rs-214-crore-in-ai-based-hydroponic-farming-ai-increases-yields-threefold-11121357"
   }
 ];
 
