@@ -185,7 +185,7 @@ const cardData = [
 {
   img: "assets/img/portfolio/43.jpeg",
   src: "HindustanTimes",
-  desc: "Predictable farming is vital for India’s long-term food security.",
+  desc: "Predictable, resilient farming is vital for India’s long-term food security.",
   lang: "en",
   link: "https://www.hindustantimes.com/ht-insight/future-tech/why-predictability-is-the-new-productivity-securing-india-s-sovereign-food-interests-101769185215400.html"
 },
