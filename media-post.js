@@ -182,10 +182,13 @@ const cardData = [
   lang: "en",
   link: "https://etedge-insights.com/sdgs-and-esg/sustainability/why-predictability-is-the-new-productivity-securing-indias-sovereign-food-interests/"
 },
-
-
-
-
+{
+  img: "assets/img/portfolio/43.jpeg",
+  src: "HindustanTimes",
+  desc: "Predictable farming is vital for India’s long-term food security.",
+  lang: "en",
+  link: "https://www.hindustantimes.com/ht-insight/future-tech/why-predictability-is-the-new-productivity-securing-india-s-sovereign-food-interests-101769185215400.html"
+},
 
   // ---------- KANNADA ----------
   {
